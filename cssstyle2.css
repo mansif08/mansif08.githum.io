@@ -1,0 +1,155 @@
+.mypic
+{
+
+    height: 150px;
+    width: 150px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float:left;
+ }
+ .header
+ {
+     
+     color:lightslategray;
+     padding:40px;
+     float: left;
+ }
+ h1,h2,h3,h4,h5,h6{
+    color:lightslategray;
+
+ }
+ .info
+ {
+ float:right;
+ }
+ .info a
+ {
+   color:lightslategray;
+   text-decoration: none;
+   font-weight: bold;
+ }
+ .info a:hover
+ {
+   color:lightsalmon;
+   text-decoration: underline;
+   
+ }
+
+#left
+{
+
+    float:left;
+    margin: 50px;
+
+}
+#right
+{
+
+    float:left;
+    margin: 50px;
+    
+}
+#container
+{
+    background-color: aqua;
+    margin:0 auto;
+    max-width: 1000px;
+    padding:20px;
+}
+#left1
+{
+    float:left;
+    margin:30px;
+}
+ 
+#right1
+{
+    float:left;
+    margin:30px;
+}
+#right2
+{
+    float: left;
+    margin: 30px;
+}
+.clear
+{
+    clear: both;
+}
+#left3
+ {
+ 
+     float:left;
+     margin: 50px;
+  
+ }
+ #right3
+ {
+ 
+    float: left;
+     margin-right: 100px;
+
+ }
+ #left4
+ {
+ 
+     float:left;
+     margin: 30px;
+
+ }
+ #right4
+ {
+ 
+    float: left;
+     margin: 70px;
+
+ }
+ #left5
+ {
+ 
+     float:left;
+     margin: 30px;
+ 
+ }
+ #right5
+ {
+ 
+    float: left;
+     margin: 30px;
+  }
+ #right6
+ {
+ 
+    float: left;
+     margin: 30px;
+  }
+ .common-hr
+ {
+    margin:20px auto;
+    border: white 3px solid;
+    border-bottom: none;
+    width:100%;
+
+ }
+ .footer
+ {
+     max-width:900px;
+     background-color:black;
+     text-align: center;
+     margin-right: 20px;
+
+
+
+ }
+ .footer a
+ {
+
+    text-decoration: none;
+    color: whitesmoke;
+ }
+ .footer a:hover
+ {
+     color: crimson;
+ }
+
+ 
